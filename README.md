@@ -32,7 +32,7 @@ Dự án thực nghiệm và đối chiếu 4 phương pháp biểu diễn văn 
 
 ---
 
-## 📊 3. Tập dữ liệu & Quy trình tiền xử lý
+## 📊 3. Tập dữ liệu & Quy trình tiền xử lý:
 
 * **Nguồn dữ liệu:** **CMU Movie Summary Corpus** (Đại học Carnegie Mellon) gồm tóm tắt cốt truyện từ Wikipedia (`plot_summaries.txt`) và thông tin siêu dữ liệu từ Freebase (`movie.metadata.tsv`).
   * 🔗 [Trang công bố tập dữ liệu](https://www.cs.cmu.edu/~ark/personas/) | [Link tải trực tiếp (.tar.gz)](https://www.cs.cmu.edu/~ark/personas/data/MovieSummaries.tar.gz)
@@ -57,7 +57,7 @@ Các phương pháp được đánh giá công bằng trên các phim truy vấn
 
 ---
 
-## 🗂️ 5. Cấu trúc thư mục dự án
+## 🗂️ 5. Cấu trúc  gợi í thư mục dự án
 
 ```text
 cmu-movie-recommender/
