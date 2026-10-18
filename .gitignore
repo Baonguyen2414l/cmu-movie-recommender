@@ -218,3 +218,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Chặn dữ liệu và vector/model nặng của đồ án
+data/
+embeddings/
+*.csv
+*.parquet
+*.npy
+*.npz
+*.pt
+*.model
+*.pkl
