@@ -8,7 +8,8 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-Web%20Demo-FF4B4B?logo=streamlit&logoColor=white)
 
 > **Đồ án môn học:** Phân tích nội dung tóm tắt phim để gợi ý **Top 5 phim tương đồng** với phim người dùng chọn, đồng thời đánh giá và so sánh chất lượng gợi ý cũng như thời gian xử lý giữa 4 phương pháp biểu diễn văn bản từ truyền thống đến hiện đại.
-
+Link mô tả đồ án word:https://docs.google.com/document/d/1pzEL7sKUjEBS_7Xv4S2NCTLpbNPovbbQYAVRzs3Jnek/edit?usp=sharing
+> 
 ---
 
 ## 📌 1. Giới thiệu bài toán
