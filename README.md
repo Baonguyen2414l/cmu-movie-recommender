@@ -78,3 +78,23 @@ cmu-movie-recommender/
 ├── app.py                            # Ứng dụng Web Demo viết bằng Streamlit
 ├── requirements.txt                  # Danh sách thư viện cần thiết
 └── README.md                         # Tài liệu hướng dẫn dự án
+```
+
+## 6. Cách chạy giao diện
+
+Dùng **Python 3.11**. Mở terminal tại thư mục dự án và chạy:
+
+```powershell
+# Tạo môi trường ảo (chỉ cần làm lần đầu)
+py -3.11 -m venv .venv
+
+# Cài các thư viện cần thiết
+.\.venv\Scripts\python.exe -m pip install -r requirements.txt
+
+# Chạy ứng dụng
+.\.venv\Scripts\python.exe -m streamlit run app.py
+```
+
+Mở địa chỉ `http://localhost:8501` trong trình duyệt. Nếu Streamlit hỏi Email ở lần chạy đầu, để trống rồi nhấn Enter.
+
+Những lần sau chỉ cần chạy lại lệnh khởi động ứng dụng. Nhấn `Ctrl+C` trong terminal để dừng.
