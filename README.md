@@ -1,6 +1,6 @@
 # 🎬 Hệ Thống Gợi Ý Phim Dựa Trên Nội Dung Tóm Tắt (Content-Based Movie Recommendation)
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.11%2B-blue?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/Sentence%20Transformers-all--MiniLM--L6--v2-FFD21E?logo=huggingface&logoColor=black)
 ![Gensim](https://img.shields.io/badge/Gensim-Doc2Vec-success)
