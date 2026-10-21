@@ -219,8 +219,10 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 # Chặn dữ liệu và vector/model nặng của đồ án
-data/
-embeddings/
+/data/*
+!/data/.gitkeep
+/embeddings/*
+!/embeddings/.gitkeep
 *.csv
 *.parquet
 *.npy
@@ -228,3 +230,11 @@ embeddings/
 *.pt
 *.model
 *.pkl
+
+
+.idea/
+# Python virtual environment
+.venv/
+# Python cache
+__pycache__/
+*.pyc
